@@ -1,13 +1,12 @@
 # Electric-Vehicle-Data-Analysis
 
-## Electric Vehicle Data Analysis Project
-
 This project is a part of the **Electric Vehicle Data Analysis** conducted with the help of **Innomatics Research Labs**.
 
 You can learn more about **Innomatics Research Labs** by visiting their website: [Innomatics Research Labs](https://www.innomatics.in/).
 
 ### LinkedIn Post
 Stay tuned for my LinkedIn post reflecting my work on this project, tagging [Innomatics Research Labs](https://www.linkedin.com/company/innomatics-research-labs/).
+
 
 This project is focused on performing Exploratory Data Analysis (EDA) on a dataset related to Electric Vehicles (EVs) in the U.S. The dataset contains detailed information on various electric vehicle attributes, including make, model year, electric range, and more. The analysis aims to uncover trends, patterns, and insights from this data.
 
@@ -33,7 +32,9 @@ Electric Utility: The name of the electric utility company serving the vehicle's
 2020 Census Tract: The 2020 Census Tract number for the vehicle’s location.
 
 Objectives 
+
 The goal of this project is to perform Exploratory Data Analysis (EDA) to:
+
 Task 1: This is an open ended problem. Apply Exploratory Data Analysis (Univariate and Bivariate) on the dataset available above.
 
 Task 2: Create a Choropleth using plotly.express to display the number of EV vehicles based on location.
