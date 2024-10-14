@@ -10,7 +10,7 @@ Stay tuned for my LinkedIn post reflecting my work on this project, tagging [Inn
 
 This project is focused on performing Exploratory Data Analysis (EDA) on a dataset related to Electric Vehicles (EVs) in the U.S. The dataset contains detailed information on various electric vehicle attributes, including make, model year, electric range, and more. The analysis aims to uncover trends, patterns, and insights from this data.
 
-Dataset Description
+### Dataset Description
 
 The dataset used in this project contains the following columns:
 
@@ -48,12 +48,12 @@ Electric Utility: The name of the electric utility company serving the vehicle's
 
 2020 Census Tract: The 2020 Census Tract number for the vehicle’s location.
 
-Objectives 
+### Objectives 
 
 The goal of this project is to perform Exploratory Data Analysis (EDA) to:
 
-Task 1: This is an open ended problem. Apply Exploratory Data Analysis (Univariate and Bivariate) on the dataset available above.
+### Task 1: This is an open ended problem. Apply Exploratory Data Analysis (Univariate and Bivariate) on the dataset available above.
 
-Task 2: Create a Choropleth using plotly.express to display the number of EV vehicles based on location.
+### Task 2: Create a Choropleth using plotly.express to display the number of EV vehicles based on location.
 
-Task 3: Create a Racing Bar Plot to display the animation of EV Make and its count each year.
+### Task 3: Create a Racing Bar Plot to display the animation of EV Make and its count each year.
